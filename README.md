@@ -1,4 +1,4 @@
-# vue-sample
+# Vue3 Boilerplate using SCSS style
 
 ## Project setup
 ```
